@@ -20,7 +20,7 @@ In the preface to _The Screwtape Letters_ Lewis warns the reader against the twi
 
 Perhaps we should think of 2023 as the year of the Materialist Magician. This was, after all, the first year in which tens of millions of people (myself included) began routinely "summoning demons" by interacting with generative AI and marveling at the results. Perhaps in 2024 Screwtape would instruct Wormwood to make a custom GPT.
 
-The immaterial or spiritual world did not feature prominently in the Lutheran churches in which I was raised. But it wasn't always this way. Martin Luther's hymn "Isaiah in a vision did of old" contains visions of "shining seraphim with sixfold wings." When my eldest son started confirmation classes this year we began praying the evening blessing from the Small Catechism together each night, in which we ask God to "let [His] holy angel be with us, so the wicked foe may have no power over us." I plan to continue praying it in 2024.
+The immaterial or spiritual world did not feature prominently in the Lutheran churches in which I was raised. But it wasn't always this way. Martin Luther's hymn "Isaiah in a vision did of old" speaks of "shining seraphim with sixfold wings." When my eldest son started confirmation classes this year we began praying the evening blessing from the Small Catechism together each night, in which we ask God to "let [His] holy angel be with us, so the wicked foe may have no power over us." I plan to continue praying it in 2024.
 
 ---
 
@@ -28,7 +28,7 @@ In 2015 I started using [Libib](https://www.libib.com/) to maintain a dataset of
 
 ![Table of books read in 2023](/images/books-table.png)
 
-in 2023 I read at least one page of 33 different books, and read every page of 22 of them. Some books I started with no intention of finishing (like David Marr's *_Vision_*, of which I only wanted to re-read the first chapter), while other books I started with the intention of finishing but quickly abandoned (like James Suzman's _Work_.) Some books were a very slow burn (_Demons_), while others I finished in just a couple of days.
+In 2023 I read at least one page of 33 different books, and read every page of 22 of them. Some books I started with no intention of finishing (like David Marr's *_Vision_*, of which I only wanted to re-read the first chapter), while other books I started with the intention of finishing but quickly abandoned (like James Suzman's _Work_.) Some books were a very slow burn (_Demons_), while others I finished in just a couple of days.
 
 ![Chart of daily pages and completion over time](/images/overlay-chart.png)
 
