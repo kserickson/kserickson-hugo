@@ -13,7 +13,7 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "I am Senior Director of Air Defense at [Anduril Industries](https://www.anduril.com/)."
 
 # Social Tags
 
@@ -35,16 +35,16 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Posts"
 url = "/posts"
 weight = 2
 
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
+#[[menu.main]]
+#name = "About"
+#url = "/about"
+#weight = 3
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
+#[[menu.main]]
+#name = "Tags"
+#url = "/tags"
+#weight = 4

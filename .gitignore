@@ -1,11 +1,5 @@
-# Hugo generated files
 /public/
-
-# macOS files
+.hugo_build.lock
 .DS_Store
-
-# Ignore any generated files or directories inside the "themes" directory
 /themes/*/public/
 
-# Hugo server files (if you use Hugo's built-in server)
-hugo server
