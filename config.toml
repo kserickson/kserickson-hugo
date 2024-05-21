@@ -13,7 +13,7 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "I am a Senior Director at [Anduril Industries](https://www.anduril.com/), where I'm helping to build the future of Air Defense. For almost ten years I worked on a variety of problems at [Palantir Technologies](https://www.palantir.com/), including delivering on complex DHS and DOD contracts, and operationalizing commitments to protecting privacy and civil liberties. In a previous life I was a PhD student in Political Theory at Georgetown, where I will forever be ABD."
+	subtitle = "I've been working in defense technology since 2011, first at [Palantir Technologies](https://www.palantir.com/) and now at [Anduril Industries](https://www.anduril.com/) as Head of Operations for Air Defense. In a previous life I was a PhD student in Political Theory at Georgetown, where I will forever be ABD."
 
 # Social Tags
 
@@ -25,7 +25,7 @@ url = "https://github.com/kserickson"
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/_kserickson/"
+url = "https://x.com/_kserickson/"
 
 # Main menu Items
 
